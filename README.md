@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0056-merge-intervals) |
+| [0198-house-robber](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0198-house-robber) |
 ## Binary Search
 |  |
 | ------- |
