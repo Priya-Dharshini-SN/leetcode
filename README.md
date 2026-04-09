@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,14 +68,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -82,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
