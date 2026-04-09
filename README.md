@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -30,9 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
