@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Priya-Dharshini-SN/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
